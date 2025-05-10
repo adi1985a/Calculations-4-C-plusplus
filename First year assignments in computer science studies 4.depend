@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1678221417 source:c:\users\hp\desktop\programy na github\c++\programs\first year assignments in computer science studies 4\zadania 3\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"windows.h"
+	<cmath>
+
+1742087144 source:f:\my portafolio it ulepszona\c++\programs\first year assignments in computer science studies 4\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<windows.h>
+	<cmath>
+	<fstream>
+	<ctime>
+	<stdexcept>
+	<limits>
+
