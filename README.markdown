@@ -22,6 +22,8 @@ _A C++ console application offering a diverse toolkit for mathematical calculati
 
 **Math & Management Suite Pro**, developed by Adrian Lesniak, is a multifaceted C++ console application that provides a suite of tools for various mathematical computations and a basic hotel room management simulation. Users can generate multiplication tables, calculate values of a quadratic function over a range, compute the average of a set of numbers, and determine the sum of a specific series. Additionally, it includes a module for tracking hotel room occupancy and displaying related statistics. The program features a user-friendly, menu-driven interface with colorful output (enhanced on Windows), robust input validation, detailed logging of program events and errors to `program_log.txt`, and saves operation timestamps to `results.txt`.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features & Tools
 
 The application offers a range of distinct tools accessible via a main menu:
@@ -64,9 +66,16 @@ The application offers a range of distinct tools accessible via a main menu:
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
+_Screenshots showcasing the main menu, inputs and outputs for each mathematical tool, the hotel management interface, and examples from `program_log.txt` and `results.txt`._
 
-_This section will be updated with screenshots showcasing the main menu, inputs and outputs for each mathematical tool, the hotel management interface, and examples from `program_log.txt` and `results.txt`._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+</p>
 
 ## ⚙️ System Requirements
 
